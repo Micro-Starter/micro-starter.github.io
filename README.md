@@ -1,10 +1,10 @@
-# Micro Starter
+# MicroCafe
 
-## [Challenge](../../../challenge/) 
-List of challenges for microsevices track
+## [Menu](../../../menu/) 
+List of all the Microservice artefacts
 
-## [Quick Starter](../../../starter/)
-Collection of microservices quick starters ( Challenge # 1)
+## [Starter](../../../starter/)
+Collection of quick starters for popular microservices tools/frameworks
 
 ## [Awesome List](../../../awesome/)
-Awesome List of resources for microservice enthusiastic
+Awesome List of resources for microservice architects/application developers
